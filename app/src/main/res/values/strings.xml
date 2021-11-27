@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstMediaplayer-App</string>
+    <string name="seekBackwards">backBy5s</string>
+    <string name="seekForwards">forward5s</string>
+</resources>
