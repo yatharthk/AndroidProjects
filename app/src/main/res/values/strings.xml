@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ShineStarTryout</string>
+    <string name="SignUp">SignUp</string>
+    <string name="Login">Login</string>
+
+    <string name="address">2284, Gali Munde Wali, 110 006, Sardar Thana Rd, near Aashu Cable, Sadar, Old Delhi, Delhi, 110006"</string>
+    <string name="phoneNumber">123456678</string>
+    <string name="aboutText">
+        \'Shinestar bags was launched in 2010, where the vision is to provide best in class budget mixed luxury backpack range, with ultra premium quality undertakings. Each and every material carries a tag of being one of the best in segment. We deal in multivariate product portfolio, where different categories and the product lengths are all diversified according to varied customer\'s use cases. We are known for our products built quality, usage of material and delivering premium products to rock solid based products recognizing different customer needs.\'
+    </string>
+    <string name="copyright">\@Copyright:Shine Star Bags 2021</string>
+    <string name="conditions">\*Terms and Conditions Apply</string>
+</resources>
